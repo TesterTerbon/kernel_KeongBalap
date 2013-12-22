@@ -1,4 +1,4 @@
-kernel_KeongBalap_3.0.101
+kernel_KeongBalap
 =========================
 
-1st Git
+Source kernel for GT-S7500
